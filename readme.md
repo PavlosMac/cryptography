@@ -5,3 +5,7 @@ A modern practical book about cryptography for developers with code examples, co
 [Book](https://cryptobook.nakov.com/)
 
 ## ... with Rust :)
+
+```sh
+> cargo test
+```
